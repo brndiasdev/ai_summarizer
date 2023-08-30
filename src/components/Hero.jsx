@@ -18,9 +18,7 @@ const Hero = () => {
 				/>
 				<button
 					type='button'
-					onClick={() =>
-						window.open("https://github.com/TidbitsJS/Summize", "_blank")
-					}
+					onClick={() => window.open("https://github.com/brndiasdev", "_blank")}
 					className='black_btn bg-gradient-to-r from-purple-400 to-purple-600'
 				>
 					Entrar
